@@ -1,0 +1,11 @@
+<?xml version="1.0" ?> 
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd" >
+  <service>
+    <engineName>Enhanced Posterous Autopost</engineName> 
+    <engineLink>http://autoposterous.appspot.com/</engineLink>
+    <homePageLink>http://autoposterous.appspot.com/</homePageLink>
+    <apis>
+      <api name="MetaWeblog" preferred="true" apiLink="http://autoposterous.appspot.com/autopost" blogID="" />
+    </apis>
+  </service>
+</rsd>
